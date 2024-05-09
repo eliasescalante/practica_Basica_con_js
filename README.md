@@ -3,4 +3,4 @@
 ----
 Ejercicio practico utilizando estructuras repetitivas y condicionales, funciones y output e input. 
 
-![Texto alternativo](ruta/a/la/imagen.jpg)
+![Texto alternativo](https://github.com/eliasescalante/pre_entrega_1_js/blob/main/img/Capture.JPG)
