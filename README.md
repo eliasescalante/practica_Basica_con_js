@@ -1,2 +1,6 @@
-# pre_entrega_1_js
-primera pre-entrega coderHouse del curso de javascript
+# Primera Pre-entrega del curso de Javascript de Coder House
+
+----
+Ejercicio practico utilizando estructuras repetitivas y condicionales, funciones y output e input. 
+
+![Texto alternativo](ruta/a/la/imagen.jpg)
